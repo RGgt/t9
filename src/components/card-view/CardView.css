@@ -1,0 +1,8 @@
+.flip-content {
+  transition: transform 1.3s;
+  transform-style: preserve-3d;
+}
+.flipped {
+  transform: rotateX(180deg);
+  transition: transform 1.3s;
+}

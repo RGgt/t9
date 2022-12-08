@@ -1,0 +1,17 @@
+[
+  {
+    "cardId": "card-001",
+    "avers": "Q1",
+    "revers": "A1"
+  },
+  {
+    "cardId": "card-002",
+    "avers": "Q2",
+    "revers": "A2"
+  },
+  {
+    "cardId": "card-003",
+    "avers": "Q3",
+    "revers": "A3"
+  }
+]

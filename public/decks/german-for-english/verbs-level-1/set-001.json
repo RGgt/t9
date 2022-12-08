@@ -1,0 +1,22 @@
+[
+  {
+    "cardId": "card-001",
+    "avers": "## Learn German \r\n\r\n<br/><br/>Conjugation of the verb <br/> <strong>to have</strong><br/> at indicative present",
+    "revers": "| Singular | Plural |\n|:-------------|:-------------|\n| Ich habe |  Wir haben | \n| Du hast   |   Ihr habt |\n| Er/Sie/Es hat  | Sie haben  |"
+  },
+  {
+    "cardId": "card-002",
+    "avers": "How to execute malicious Javascript",
+    "revers": "Securely include HTML tags: <img src=\"/vite.svg\" onerror=\"alert('charlie')\"><a href=\"jAva script:alert('bravo')\">|LINK|</a> <div class=\"rg-special\">|a special, safe div|</div><div class=\"rg-special\" onMouseover=\"alert('alpha')\">|ands jkdnsjkad|<a href=\"jAva script:alert('bravo')\">delta</a><img src=\"/vite.svg_error\" onerror=\"alert('charlie')\"><iFrame src=\"javascript:alert('delta')\"></iFrame><math><mi xLink:href=\"data:x,<script>alert('echo')</script>\"></mi></math></div><script>require('child_process').spawn('echo', ['hack!']);</script>"
+  },
+  {
+    "cardId": "card-003",
+    "avers": "How to write some code",
+    "revers": "<pre><code class=\"language-js\">// language: javascript\r\nvar name = \"World\";\r\nconsole.warn(\"Hello, \" + name + \"!\")</code></pre>"
+  },
+  {
+    "cardId": "card-004",
+    "avers": "## Learn German \r\n\r\n<br/>Translate the verb <br/> <strong>to have</strong><br/> in german",
+    "revers": "<strong>haben</strong>"
+  }
+]
