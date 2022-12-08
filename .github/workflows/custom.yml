@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: npm install    
       - name: Generate build
-        run: npm run buildgp2
+        run: npm run buildgp
   # Single deploy job since we're just deploying
   deploy:
     needs: build
@@ -48,7 +48,7 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
-          path: './docs2/'
+          path: './docs/'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
