@@ -32,12 +32,6 @@ jobs:
         run: npm install    
       - name: Generate build
         run: npm run buildgp2
-      # Share artifact inside workflow
-      - name: Share artifact inside workflow
-        uses: actions/upload-artifact@v1
-        with:
-          name: react-github-actions-build
-          path: build
   # Single deploy job since we're just deploying
   deploy:
     environment:
