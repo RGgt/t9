@@ -1,0 +1,22 @@
+[
+  {
+    "cardId": "card-001",
+    "avers": "Translate the verb <br/> <strong>to be</strong><br/> in german",
+    "revers": "<strong>sein</strong>"
+  },
+  {
+    "cardId": "card-002",
+    "avers": "Translate the verb <br/> <strong>to have</strong><br/> in german",
+    "revers": "<strong>haben</strong>"
+  },
+  {
+    "cardId": "card-003",
+    "avers": "Translate the verb <br/> <strong>to love</strong><br/> in german",
+    "revers": "<strong>lieben</strong>"
+  },
+  {
+    "cardId": "card-004",
+    "avers": "Translate the verb <br/> <strong>to learn</strong><br/> in german",
+    "revers": "<strong>lernen</strong>"
+  }
+]

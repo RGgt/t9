@@ -1,0 +1,22 @@
+[
+  {
+    "cardId": "card-001",
+    "avers": "Conjugation of the verb <br/> <strong>to have</strong><br/> at indicative present",
+    "revers": "| Singular | Plural |\n|:-------------|:-------------|\n| Ich habe |  Wir haben | \n| Du hast   |   Ihr habt |\n| Er/Sie/Es hat  | Sie haben  |"
+  },
+  {
+    "cardId": "card-002",
+    "avers": "Conjugation of the verb <br/> <strong>to be</strong><br/> at indicative present",
+    "revers": "| Singular | Plural |\n|:-------------|:-------------|\n| Ich bin |  Wir sind | \n| Du bist   |   Ihr seid |\n| Er/Sie/Es ist  | Sie sind  |"
+  },
+  {
+    "cardId": "card-003",
+    "avers": "Conjugation of the verb <br/> <strong>to love</strong><br/> at indicative present",
+    "revers": "| Singular | Plural |\n|:-------------|:-------------|\n| Ich liebe |  Wir lieben | \n| Du liebst   |   Ihr liebt |\n| Er/Sie/Es liebt  | Sie lieben  |"
+  },
+  {
+    "cardId": "card-004",
+    "avers": "Conjugation of the verb <br/> <strong>to learn</strong><br/> at indicative present",
+    "revers": "| Singular | Plural |\n|:-------------|:-------------|\n| Ich lerne |  Wir lernen | \n| Du lernst   |   Ihr lernt |\n| Er/Sie/Es lernt  | Sie lernen  |"
+  }
+]
