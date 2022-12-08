@@ -8,7 +8,7 @@ export default defineConfig({
   root: '.',
   build: {
     emptyOutDir: true,
-    outDir: './dist',
+    outDir: './docs',
   },
   test: {
     globals: true,
