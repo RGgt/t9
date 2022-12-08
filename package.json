@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "buildgp": "tsc && vite build --base=/my/pages/",
+    "buildgp": "tsc && vite build --base=/t9/",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
