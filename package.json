@@ -6,7 +6,10 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "buildgp": "tsc && vite build --base=/my/pages/",
     "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "vitest"
   },
   "repository": {
@@ -18,8 +21,9 @@
   "bugs": {
     "url": "https://github.com/RGgt/LearnCard/issues"
   },
-  "homepage": "https://github.com/RGgt/LearnCard#readme",
+  "homepage": "https://RGgt.github.com//t9",
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "highlight.js": "^11.7.0",
     "katex": "^0.16.3",
     "localforage": "^1.10.0",
